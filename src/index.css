@@ -1,0 +1,44 @@
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+table th{
+  width: 30vw;
+  height: 100px;
+  background-color: aquamarine;
+  text-align: center;
+}
+table td{
+  width: 30vw;
+  height: 80px;
+  background-color: rgb(221, 255, 127);
+  text-align: center;
+}
+
+ul{
+    list-style: none;
+    gap: 30px;
+    display: inline-flex;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    padding: 15px;
+    
+  
+  
+}
+ul li{
+ 
+    width: 80px;
+  padding: 15px 20px;
+  color: white;
+ text-decoration: none;
+}
+.heading{
+  padding-left: 45%;
+  background-color: brown;
+  color: aliceblue;
+  font-size: 40px;
+}
